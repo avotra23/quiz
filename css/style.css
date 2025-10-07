@@ -1,0 +1,44 @@
+body{
+    background-image:url("../img/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    position: fixed;
+}
+#bore{
+    width: 50%;
+    height: 500px;
+    margin-left:25%;
+    margin-top:5%;
+}
+h1{
+    
+
+    font-family: Cooper Black;
+    font-size: 180px;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    width: 50%;
+    height: 35%;
+    margin:auto;
+    color:#a7a714;
+}
+#q{
+    color:rgba(7, 7, 75, 0.884);
+}
+#u{
+    color:rgb(121, 121, 16);
+}
+#i{
+    color:rgb(222, 224, 77);
+}
+#z{
+    color:rgba(7, 7, 75, 0.884);;
+}
+button{
+    margin-top: 20%;
+    margin-left: 40%;
+    
+}

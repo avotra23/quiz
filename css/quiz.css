@@ -1,0 +1,123 @@
+body{
+    background-image:url("../img/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#tt{
+    font-family: Eras Bold ITC;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(44, 8, 109);
+}
+#ct{
+    background-color: rgba(121, 121, 16);
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+
+}
+#tb{
+    background-color: rgba(121, 121, 16);
+    margin-left: 2%;
+    margin-bottom: 1%;
+}
+#bn{
+    height:100%;
+    width: 40%;
+    margin-left: 5%;
+}
+#q{
+color:rgba(7, 7, 75, 0.884);
+}
+#u{
+color:rgb(121, 121, 16);
+}
+#i{
+color:rgb(222, 224, 77);
+}
+#z{
+color:rgba(7, 7, 75, 0.884);;
+}
+#menu{
+margin-left: 3%;
+height: 400px;
+border-radius: 20px;
+box-shadow: 0 0 20px rgba(0,0,0,0.8);
+padding-top: 2%;
+}
+#choixx{
+    width: 40%;
+    padding: 5%;
+    height: 30em;
+    margin: auto;
+    border:1px solid rgb(35, 44, 94);
+    border-radius:20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+#label{
+    color: white;
+    font-family: Eras Bold ITC;
+    font-size: 1.5em;
+}
+#jr{
+    color: white;
+    font-family: Eras Bold ITC;
+    text-align: center;
+}
+#bb{
+    margin-top: 10%;
+    margin-left:30%;
+    width: 30%;
+    height: 2em;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#qr{
+    padding: 2%;
+}
+#question{
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.8);
+    background-color: rgb(46, 64, 126);    
+    height:4em;
+    color: white;
+}
+#reponses{
+    margin-top:8%;
+    margin-left:15%;
+    margin-right: 10%;
+}
+#rep1, #rep2, #rep3, #rep4{
+    font-size: 20px;
+    height: 8em;
+    border-radius: 10px;
+    margin-right:50px;
+    background-color: rgb(46, 64, 126);
+    box-shadow: 0 0 20px rgba(0,0,0,0.8);
+    color: white;
+}
+#btn1{
+    background-color: rgb(46, 64, 126);
+    height: 4em;
+    margin-bottom: 1px;
+}
+#btn2{
+    background-color: rgb(46, 64, 126);
+    height: 4em;
+    margin-bottom: 1px;
+}
+#btn3{
+    background-color: rgb(46, 64, 126);
+    height: 4em;
+    margin-bottom: 1px;
+}
+#btn4{
+    background-color: rgb(46, 64, 126);
+    height: 4em;
+    margin-bottom: 1px;
+}
+#btn5{
+    background-color: rgb(46, 64, 126);
+    height: 4em;
+    margin-bottom: 1px;
+}
